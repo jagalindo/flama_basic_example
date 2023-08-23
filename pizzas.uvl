@@ -22,4 +22,4 @@ features
 			CheesyCrust
 
 constraints
-	CheesyCrust => Big
+	CheesyCrust => !Big
